@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Enan 👋
 
-🎓 Computer Science student at GUC  
+🎓 Computer Science and engineering student at GUC  
 💻 Interested in Backend Development, Scalable Systems & Competitive Programming  
 🚀 Building real-world platforms with Node.js & .NET  
 🧠 Solving algorithmic problems and improving problem-solving skills through CP
@@ -14,7 +14,7 @@
 - Algorithms & Problem Solving: Competitive Programming (C++)
 
 ### ⚙️ Technologies
-- Languages: C++, JavaScript, C#
+- Languages: C++, JavaScript, C#, Java, Python
 - Tools: Git, GitHub, Postman, VS Code
 ---
 
@@ -24,7 +24,7 @@
 - Full-stack platform connecting users with doctors, transport & delivery
 - JWT Auth + RBAC (Admin, Doctor, User)
 - Redis caching & rate limiting
-- 300+ users, 1,500+ monthly visits
+- 500+ users, 1,500+ monthly visits
 
 👉 [View Project](https://sawahel.vercel.app)
 
@@ -38,4 +38,4 @@
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/mohamed-enan1/
-- Email: mahmedmhasanii@gmail.com
+- Email: mohamed.enan.pri@gmail.com
