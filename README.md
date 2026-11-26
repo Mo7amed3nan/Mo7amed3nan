@@ -1,41 +1,62 @@
-# Hi, I'm Mohamed Enan 👋
+ <!-- Animated introduction -->
+<div align="center">
 
-### Computer Science & Engineering Student | Backend Developer | Competitive Programmer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mohamed+Enan+%F0%9F%91%8B;Backend+Developer+%7C+Software+Engineer;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG" />
 
-I'm a fourth-year Computer Science and Engineering student at the **German University in Cairo (GUC)**, passionate about backend development, system design, database engineering, and problem-solving.
+<h3>Computer Science & Engineering Student @ GUC</h3>
 
-I enjoy designing efficient software systems, building scalable backend applications, and working on challenging technical problems.
+<p>
+  <a href="https://github.com/Mo7amed3nan">
+    <img src="https://img.shields.io/badge/GitHub-Mo7amed3nan-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-enan1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://codeforces.com/profile/Mohamed_3nan">
+    <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
-- 🎓 Computer Science & Engineering @ German University in Cairo
-- 💻 Interested in Backend Development, System Design & Database Engineering
-- 🧠 Strong foundation in Data Structures, Algorithms & Problem Solving
-- 🏆 ECPC Bronze Medalist – 7th Place
-- 🌍 Qualified for the Africa and Arab Collegiate Programming Championship (ACPC)
-- 🚀 Always learning and building new things.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-**Programming Languages**
+I'm a fourth-year **Computer Science and Engineering student at the German University in Cairo (GUC)**, passionate about backend development, system design, database engineering, and problem-solving.
 
-C++ | Java | C# | JavaScript | Python | C
+I enjoy designing efficient software systems, building scalable backend applications, and solving challenging algorithmic problems.
 
-**Backend & Frameworks**
+- 🎓 Computer Science & Engineering @ GUC
+- 💻 Interested in Backend Development, System Design & Database Engineering
+- 🧠 Strong foundation in Data Structures, Algorithms & Problem Solving
+- 🏆 ECPC 2026 Bronze Medalist – 7th Place Overall
+- 🌍 Qualified for the Africa and Arab Collegiate Programming Championship (ACPC)
+- 🚀 Always learning and building new things
 
-Node.js | Express.js | ASP.NET Core | React
+---
 
-**Databases**
+## 🛠️ Tech Stack
 
-MongoDB | SQL Server | MySQL 
+<div align="center">
 
-**Core Concepts**
+### Programming Languages
 
-Data Structures & Algorithms | Object-Oriented Programming | REST APIs | Database Normalization | Software Engineering
+<img src="https://skillicons.dev/icons?i=cpp,java,cs,js,python,c" />
 
-**Tools**
+### Backend & Frameworks
 
-Git | GitHub | VS Code | Visual Studio
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,react" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+### Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+
+</div>
 
 ---
 
@@ -43,53 +64,108 @@ Git | GitHub | VS Code | Visual Studio
 
 Competitive programming has played a major role in developing my problem-solving and algorithmic thinking skills.
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/ECPC_2026-Bronze_Medal- CD7F32?style=for-the-badge&logo=icpc&logoColor=white" alt="ECPC Bronze Medal" />
+<img src="https://img.shields.io/badge/ECPC-7th_Place-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ACPC-Qualified-blue?style=for-the-badge" />
+
+</div>
+
 - 🥉 **ECPC 2026:** Bronze Medal – 7th Place Overall.
 - 🌍 **ACPC 2026:** Qualified for the Africa and Arab Collegiate Programming Championship.
 - 💡 **Codeforces:** Expert.
-- Solved 1000+ programming problems across different platforms.
-- Participated in ICPC-related competitions over multiple years.
+- ⚡ Solved 1000+ programming problems across different platforms.
+- 🧩 Participated in ICPC-related competitions over multiple years.
 
-[Codeforces Profile](https://codeforces.com/profile/Mohamed_3nan)
+<!-- <div align="center">
+
+<a href="https://codeforces.com/profile/Mohamed_3nan">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohamed_3nan" width="500" alt="Codeforces Stats" />
+</a>
+
+</div> -->
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Sawahel – Local Services Platform
+<table>
+<tr>
+<td width="50%">
+
+### 🌊 Sawahel
+**Local Services Platform**
+
 A full-stack MERN application connecting residents with local services, including healthcare providers.
 
-**Technologies:** React, Node.js, Express.js, MongoDB, Redis.
+**Tech:** React, Node.js, Express.js, MongoDB, Redis.
 
-### 2. University Scheduling System
-A system designed to organize university schedules, manage student timetables, assign instructors to available slots, and handle schedule modifications.
+</td>
+<td width="50%">
 
-**Technologies:** MERN Stack
+### 📅 University Scheduling System
+**Academic Scheduling Platform**
 
-### 3. University HR Management System
-A full-stack HR management application built around a relational database, focusing on database architecture, normalization, data integrity, and optimized SQL queries.
+A system for organizing student schedules, managing instructor assignments, available slots, and timetable modifications.
 
-**Technologies:** ASP.NET Core, C#, SQL Server.
+**Tech:** MERN Stack.
 
-### 4. Cosmic Jackaroo
-A Java-based multiplayer board game featuring AI opponents, a graphical user interface, and extensive unit testing.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Technologies:** Java, JavaFX, OOP, JUnit.
+### 🗄️ University HR Management System
+**Database-Driven Application**
+
+A full-stack HR management system focusing on relational database design, normalization, data integrity, and SQL query optimization.
+
+**Tech:** ASP.NET Core, C#, SQL Server.
+
+</td>
+<td width="50%">
+
+### 🎮 Cosmic Jackaroo
+**Java Board Game**
+
+A multiplayer board game featuring AI opponents, a graphical user interface, and extensive unit testing.
+
+**Tech:** Java, JavaFX, OOP, JUnit.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 What I'm Currently Interested In
+## 🎯 Current Interests
 
 - Designing scalable backend architectures.
 - Building efficient and well-structured databases.
 - Exploring software engineering best practices.
+- Improving system performance and query optimization.
 - Solving challenging algorithmic problems.
 
 ---
 
-## 📫 Connect With Me
 
-- **LinkedIn:** [Mohamed Enan](https://www.linkedin.com/in/mohamed-enan1/)
-- **GitHub:** [Mo7amed3nan](https://github.com/Mo7amed3nan)
-- **Codeforces:** [Mohamed_3nan](https://codeforces.com/profile/Mohamed_3nan)
+## 🤝 Let's Connect
 
-Feel free to explore my repositories and connect with me!
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-enan1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Enan-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/Mo7amed3nan">
+  <img src="https://img.shields.io/badge/GitHub-Mo7amed3nan-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://codeforces.com/profile/Mohamed_3nan">
+  <img src="https://img.shields.io/badge/Codeforces-Mohamed__3nan-1F8ACB?style=for-the-badge&logo=codeforces" />
+</a>
+
+<br/><br/>
+
+<i>Building, learning, and solving problems — one commit at a time.</i>
+
+</div>
